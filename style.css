@@ -1,0 +1,41 @@
+.contact {
+  background-color: #6cdeff;
+}
+.map {
+  width: 100%;
+  height: 400px;
+  padding: 6px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: var(--shadow2);
+}
+.medias a {
+  color: var(--colord);
+  display: inline-block;
+  margin-bottom: 60px;
+  text-shadow: var(--shadow1);
+}
+
+.medias a:hover {
+  color: var(--color2);
+}
+
+.medias a {
+  color: var(--colord);
+  display: inline-block;
+  margin-bottom: 60px;
+  text-shadow: var(--shadow1);
+}
+
+.medias a:hover {
+  color: var(--color2);
+}
+.media {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 13px 0;
+  font-size: 23px;
+  box-shadow: var(--shadow1);
+}
